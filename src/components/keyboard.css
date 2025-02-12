@@ -1,0 +1,17 @@
+.container-keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+    width: 70%;
+}
+
+.letter {
+    background-color: red;  
+    height: 50px;
+    width: 50px;  
+}
+
+.clicked {
+    background-color: gray;
+}

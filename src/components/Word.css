@@ -1,0 +1,20 @@
+.letter-hyphen {
+    height: 2px;
+    width: 25px;
+    background-color: white;
+}
+
+.container-letter-hidden {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: end;
+    margin-top: 1rem; 
+}
+
+.container-letter-and-hyphen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
